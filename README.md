@@ -1,6 +1,6 @@
 # 🚀 Ujjawal Kumar's Portfolio
 
-[Live Demo](https://portfolio-ujjawal-kumars-projects-40f5a3a4.vercel.app/) | [GitHub Repo](https://github.com/UjjawalSah/Portfolio)
+[Live Demo](https://portfolio-alpha-liard-66.vercel.app/) | [GitHub Repo](https://github.com/UjjawalSah/Portfolio)
 
 ---
 
@@ -22,7 +22,7 @@ This portfolio is a modern, responsive showcase of my professional work, skills,
 
 ## 🔗 Links & Resources
 
-- **Live Demo:** [Visit Portfolio](https://portfolio-ujjawal-kumars-projects-40f5a3a4.vercel.app/)
+- **Live Demo:** [Visit Portfolio](https://portfolio-alpha-liard-66.vercel.app/)
 - **Source Code:** [View on GitHub](https://github.com/UjjawalSah/Portfolio)
 
 ---
